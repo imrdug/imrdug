@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **PERN or JS**
 
-- 📫 How to reach me **https://t.me/imrdug**
+- 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/radu-guzun/)**
 
 - 📄 Know about my experiences [https://github.com/imrdug/](https://github.com/imrdug/)
 
@@ -30,4 +30,10 @@
   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
+</p>
+
+<h3 align="left">See the following repositories for examples and how to implement:</h3>
+<p align="left">
+### [Case React Context](https://github.com/imrdug/case_react_context)
+### [Case on React and Redux Tool Kit](https://github.com/imrdug/case_react_redux)
 </p>
