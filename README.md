@@ -33,5 +33,5 @@
 </p>
 
 <h3 align="left">See the following repositories for examples and how to implement:</h3>
-  <a href="https://github.com/imrdug/case_react_context" target="_blank" rel="noreferrer"><h4>Case React Context</h4></a>
-  <a href="https://github.com/imrdug/case_react_redux" target="_blank" rel="noreferrer"><h4>Case on React and Redux Tool Kit</h4></a>
+  <h4><a href="https://github.com/imrdug/case_react_context" target="_blank" rel="noreferrer">Case React Context</a></h4>
+  <h4><a href="https://github.com/imrdug/case_react_redux" target="_blank" rel="noreferrer">Case on React and Redux Tool Kit</a></h4>
