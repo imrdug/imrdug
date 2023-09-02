@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.leetcode.com/imrdug" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="imrdug" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/imrdug" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="imrdug" height="30" width="40" /></a> -->
 <a href="https://www.codewars.com/users/imrdug/" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.f607a0fb.svg" alt="imrdug" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/imrdug/" target="blank"><img align="center" src="https://www.codewars.com/users/imrdug/badges/small" alt="imrdug"</a>
 </p>
