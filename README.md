@@ -33,5 +33,5 @@
 </p>
 
 <h3 align="left">See the following repositories for examples and how to implement:</h3>
- - <h4>[Case React Context](https://github.com/imrdug/case_react_context)</h4>
- - <h4>[Case on React and Redux Tool Kit](https://github.com/imrdug/case_react_redux)</h4>
+ - with Context state manager [Case React Context](https://github.com/imrdug/case_react_context)
+ - with Redux state manager [Case on React and Redux Tool Kit](https://github.com/imrdug/case_react_redux)
