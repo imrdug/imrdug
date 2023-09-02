@@ -32,7 +32,7 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
-<h3 align="left">See the following repositories for examples and how to implement:</h3>
+<h3 align="left">See the following repositories for code examples and how to implement:</h3>
 
  - with Context state manager [Case React Context](https://github.com/imrdug/case_react_context)
   
