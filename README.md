@@ -33,7 +33,5 @@
 </p>
 
 <h3 align="left">See the following repositories for examples and how to implement:</h3>
-<p align="left">
 ### [Case React Context](https://github.com/imrdug/case_react_context)
 ### [Case on React and Redux Tool Kit](https://github.com/imrdug/case_react_redux)
-</p>
