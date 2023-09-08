@@ -37,3 +37,7 @@
  - with Context state manager [Case React Context](https://github.com/imrdug/case_react_context)
   
  - with Redux state manager [Case on React and Redux Tool Kit](https://github.com/imrdug/case_react_redux)
+
+ - use filtering, Redux and Jest on a [SPA for filter JSON](https://github.com/forjmail/filter_json)
+
+ - use Vite + React + TS, for backend Node.js + Express + CORS a [ToDo app](https://github.com/imrdug/todos)
