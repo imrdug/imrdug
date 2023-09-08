@@ -38,6 +38,6 @@
   
  - with Redux state manager [Case on React and Redux Tool Kit](https://github.com/imrdug/case_react_redux)
 
- - use filtering, Redux and Jest on a [SPA for filter JSON](https://github.com/forjmail/filter_json)
+ - use filtering, Redux and Jest on a [SPA for filter JSON](https://github.com/imrdug/filter_json)
 
  - use Vite + React + TS, for backend Node.js + Express + CORS a [ToDo app](https://github.com/imrdug/todos)
